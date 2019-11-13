@@ -1,0 +1,14 @@
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\bin\Release\TdoT v.4.exe.config
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\bin\Release\TdoT v.4.exe
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\bin\Release\TdoT v.4.pdb
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\obj\Release\TdoT v.4.csprojAssemblyReference.cache
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\obj\Release\TdoT_v._4.Panels.Anzahl.resources
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\obj\Release\TdoT_v._4.Panels.Edit.resources
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\obj\Release\TdoT_v._4.Panels.Einstellungen.resources
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\obj\Release\TdoT_v._4.Panels.Exportieren.resources
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\obj\Release\TdoT_v._4.Panels.Info.resources
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\obj\Release\TdoT_v._4.Main.resources
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\obj\Release\TdoT_v._4.Properties.Resources.resources
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\obj\Release\TdoT v.4.csproj.GenerateResource.cache
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\obj\Release\TdoT v.4.exe
+C:\Users\Uros Zivkovic\source\repos\TdoT v.4\obj\Release\TdoT v.4.pdb

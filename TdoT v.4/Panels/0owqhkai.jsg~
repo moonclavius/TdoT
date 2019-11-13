@@ -1,0 +1,98 @@
+﻿using System;
+using System.Data;
+using System.Windows.Forms;
+
+namespace TdoT_v._4
+{
+    public partial class Main : Form
+    {
+        public Main()
+        {
+            InitializeComponent();
+            Initialize();
+        }
+
+        /*
+            DataTable dt = new DataTable();
+
+            dt.Columns.Add("Nachname", typeof(string));
+            dt.Columns.Add("Vorname", typeof(string));
+            dt.Columns.Add("Klasse", typeof(string));
+            dt.Columns.Add("Führungen", typeof(int));
+            dt.Columns.Add("Status", typeof(bool));
+            dt.Columns.Add("Schalter", typeof(Guid));
+
+            dt.Rows.Add("Zivkovic", "Uros", "5AHITN", 0, false, Guid.NewGuid());
+        */
+
+        #region Methods
+        public void Initialize()
+        {
+        }
+        #endregion
+
+        #region RFID
+        #endregion
+
+        #region Menü
+        #region Datei
+        private void Dateiöffnen_Click(object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void Dateispeichern_Click(object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void Dateiexportieren_Click(object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void Dateischließen_Click(object sender, System.EventArgs e)
+        {
+
+        }
+        #endregion
+
+        #region Ansicht
+        private void Ansichtführer_Click(object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void Ansichtprotokoll_Click(object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void Ansichtstatistik_Click(object sender, System.EventArgs e)
+        {
+
+        }
+        #endregion
+
+        #region Einstellungen
+        private void Menueinstellungen_Click(object sender, System.EventArgs e)
+        {
+
+        }
+        #endregion
+
+        #region Statistik
+        #endregion
+
+        #region Suchen
+        #endregion
+        #endregion
+
+        #region DataGridView
+        public void DisplayData()
+        {
+
+        }
+        #endregion
+    }
+}
